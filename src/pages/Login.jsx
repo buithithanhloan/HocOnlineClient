@@ -116,7 +116,7 @@ class Login extends Component {
             <Col sm="12" md={{ size: 8, offset: 2 }}>
               <FormGroup>
                 <TextField
-                  sty
+                  
                   className="text-center"
                   style={{textAlign : 'center'}}
                   type="password"
